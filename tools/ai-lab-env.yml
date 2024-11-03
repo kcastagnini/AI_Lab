@@ -2,7 +2,7 @@ name: ai-lab
 channels:
   - defaults
 dependencies:
-  - python=3.7.3
+  - python=3.8.20
   - scipy
   - numpy
   - jupyter
